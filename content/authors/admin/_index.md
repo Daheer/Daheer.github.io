@@ -60,4 +60,4 @@ highlight_name: true
 website: "https://daheer.vercel.app"
 ---
 
-Dahiru Ibrahim is a computer engieering student at Ahmadu Bello University. His research interests include neural radiance fields, computer vision and nautral language processing. He is the co-founder and Chief Product Officer of OrbitalsAI, a speech intelligence company built in Africa by Africans for Africans.
+Dahiru Ibrahim is a Computer Engineering student at Ahmadu Bello University. His research interests include Neural Radiance Fields, Computer Vision and Nautral Language Processing. He is the co-founder and Chief Product Officer of OrbitalsAI, a speech intelligence company built in Africa by Africans for Africans.
