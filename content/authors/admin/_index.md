@@ -3,7 +3,7 @@
 title: Dahiru Ibrahim (ظهير)
 
 # Name pronunciation (optional)
-name_pronunciation: Ẓahīr
+name_pronunciation: Ḍāhir
 
 # Full name (for SEO)
 first_name: Dahiru 
