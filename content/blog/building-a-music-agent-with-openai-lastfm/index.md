@@ -1,4 +1,20 @@
-# Building a Music Recommendation Agent with OpenAI and Last.fm API
+---
+title: Building a Music Recommendation Agent with OpenAI and Last.fm API
+date: 2025-01-10
+
+image:
+  caption: 'Image credit **Pixlr + OpenAI + Last.fm**'
+
+tags:
+  - Agents
+  - LLMs
+  - Tools
+  - OpenAI
+  - Last.fm
+---
+
+👋🏾
+
 In this blog post, we'll walk through the process of building a **music recommendation agent** using **OpenAI's GPT-4 model** and the **Last.fm API**. We'll build a cool agent which will be able to identify a song and its artist from user-provided lyrics and then recommend similar tracks based on that information. By the end of this post, you'll have a fully functional agent that can assist users in discovering new music.
 
 ## What Exactly is an Agent?
